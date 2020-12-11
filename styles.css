@@ -82,7 +82,7 @@ body {
   to {
     transform: rotate(360deg);
   }
-}
+} 
 
 .container.grow {
   animation: grow 3s linear forwards;
